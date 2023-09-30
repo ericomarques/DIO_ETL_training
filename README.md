@@ -1,7 +1,6 @@
 # DIO_ETL_training
 A empresa Imaginário 4 contratou-me para elaborar um relatório identificando colaboradores que necessitam de assistência para a transição de carreira e aqueles que demandam incentivos para se consolidar em suas carreiras atuais. Esta análise se baseia em dados obtidos por meio de webscraping sobre as "profissões do futuro".
 
-
 # - Contexto
 
 A empresa ***Imaginário 4*** é uma empresa preocupada com seus colaboradores e quer manter a empregabilidade deles e, para isso ela mantém uma pesquisa frequente das profissões em tendência e, se algum dos seus colaboradores ocupam cargos que estão previstos para deixar de existir, a empresa direciona o colaborador para um programa de transição de posição e carreira
